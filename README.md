@@ -29,7 +29,7 @@ below.<br>
 • <b>fc:</b>   Front Camera mega pixels<br>
 • <b>four_g:</b>   Has 4G or not<br>
 • <b>int_memory:</b>   Internal Memory in Gigabytes<br>
-• <b>m_dep:</b>   Mobile Depth in cm<br>
+• <b>m_dep:</b>    Mobile Depth in cm<br>
 • <b>mobile_wt:</b>   Weight of mobile phone<br>
 • <b>n_cores:</b>   Number of cores of processor<br>
 • <b>pc:</b>   Primary Camera mega pixels<br>
@@ -50,9 +50,9 @@ below.<br>
 <b>2)</b> Split data into training and test data.<br>
 <b>3)</b> Apply the following models on the training dataset and generate the predicted value for<br>
 the test dataset<br>
-<b>a)</b> Logistic Regression<br>
-<b>b)</b> KNN Classification<br>
-  <b>c)</b> SVM Classifier with linear and rbf kernel<br>
+<b>a)</b> <strong>Logistic Regression</strong><br>
+<b>b)</b> <strong>KNN Classification</strong><br>
+  <b>c)</b> <strong>SVM Classifier with linear and rbf kernel</strong><br>
   <b>4)</b> Predict the price range for test data<br>
   <b>5)</b> Compute Confusion matrix and classification report for each of these models.<br>
   <b>6)</b> Report the model with the best accuracy.<br>
