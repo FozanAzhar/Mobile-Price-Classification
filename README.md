@@ -1,7 +1,10 @@
 # MOBILE PRICE CLASSIFICATION
 
-This is a project where we create a classification model to predict the price range of
-mobiles that a company owns based on certain specifications.
+This is a project where I have created a classification model to predict the price range of
+mobile phones that a company owns based on certain specifications.I have implied 3 machine learning algorithms to check 
+which algorithm generates the highest accuracy which in turn would be the best fit algorithm for my model
+
+
 ![alt text](https://s3b.cashify.in/blog/wp-content/uploads/2018/05/mobile-phone-evolution.jpg)
 
 ## CONTEXT
